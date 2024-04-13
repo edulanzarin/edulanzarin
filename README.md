@@ -57,7 +57,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Gosto de programar e adquirir conhecimento <br/><br/>
+ ✌️  &emsp; Gosto de programar e adquirir conhecimento <br/><br/>
  ❤️ &emsp; Amor escrever códigos e aprender coisas novas <br/><br/>
  📧 &emsp; Entre em contato comigo a qualquer momento: edulanzarin@outlook.com<br/><br/>
 
@@ -79,11 +79,11 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/edulanzarin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/edulanzarin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 <br/>
 
 
-![Eduardo Lanzarin GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Eduardo Lanzarin GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
