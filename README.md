@@ -48,7 +48,7 @@
  <h1>Sobre mim</h1>
  
 <p>
- <img align="center" width="350" src="https://ouch-cdn2.icons8.com/4nr2Np0VtrM97_bftTrX8Yg0hg-xL4VPM2_QYM7g2FY/rs:fit:730:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM3/L2QwN2ZmNWI0LWE4/OGMtNGZhMi04MzAz/LTI2MDhiOGI0YzQw/YS5zdmc.png" alt="Coding" />
+ <img align="center" width="500" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Coding" />
   
  ✌️  Gosto de programar e adquirir conhecimento <br/><br/>
  ❤️ Amo escrever códigos e aprender coisas novas <br/><br/>
