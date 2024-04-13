@@ -59,7 +59,7 @@
   
  ✌️  &emsp; Gosto de programar e adquirir conhecimento <br/><br/>
  ❤️ &emsp; Amor escrever códigos e aprender coisas novas <br/><br/>
- 📧 &emsp; Entre em contato comigo a qualquer momento: edulanzarin@outlook.com<br/><br/>
+ 📧 &emsp; Entre em contato comigo: edulanzarin@outlook.com<br/><br/>
 
 </p>
 
