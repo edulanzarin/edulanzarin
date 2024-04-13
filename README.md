@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
 </p>
-<br />
+<br/>
 
 <div align="center">
 <!-- About Section -->
@@ -56,7 +56,6 @@
 
 </p>
 
-<br/>
 <br/>
 
 <h1>Tecnologias que utilizo</h1>
@@ -79,5 +78,6 @@
 
 <br/>
 <br/>
-
-![Eduardo Lanzarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical">
+</div>
