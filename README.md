@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-  <h3>Meus repositórios</h3>
+  <h4>Meus repositórios</h4>
   <a href="https://github.com/edulanzarin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
