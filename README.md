@@ -29,19 +29,17 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 Sou um estudante de Sistema de Informação pela <b>FURB</b> 」
+    「 Sou um estudante de Sistemas de Informação pela <b>FURB</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://edulanzarin.netlify.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/eduardolanzarin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
