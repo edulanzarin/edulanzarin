@@ -45,7 +45,7 @@
 
 <div align="center">
 <!-- About Section -->
- ## Sobre mim
+ <h1>Sobre mim</h1>
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-## Tecnologias que utilizo
+<h1>Tecnologias que utilizo</h1>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
