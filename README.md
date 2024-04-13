@@ -85,4 +85,4 @@
 <br/>
 <br/>
 
-  ![Eduardo Lanzarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
+![Eduardo Lanzarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
