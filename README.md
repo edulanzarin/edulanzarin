@@ -45,14 +45,14 @@
 
 <div align="center">
 <!-- About Section -->
- # Sobre mim
+ ## Sobre mim
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️  &emsp; Gosto de programar e adquirir conhecimento <br/><br/>
- ❤️ &emsp; Amor escrever códigos e aprender coisas novas <br/><br/>
- 📧 &emsp; Entre em contato comigo: edulanzarin@outlook.com<br/><br/>
+ ✌️  Gosto de programar e adquirir conhecimento <br/><br/>
+ ❤️ Amo escrever códigos e aprender coisas novas <br/><br/>
+ 📧 Entre em contato comigo: edulanzarin@outlook.com<br/><br/>
 
 </p>
 
