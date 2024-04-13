@@ -11,14 +11,6 @@
 </p>
 
  -->
-<div align="center">
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -51,6 +43,7 @@
 </p>
 <br />
 
+<div align="center">
 <!-- About Section -->
  # Sobre mim
  
@@ -67,6 +60,7 @@
 <br/>
 
 ## Tecnologias que utilizo
+</div>
 <div align="center">
     <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
     <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs">
@@ -87,4 +81,3 @@
 <br/>
 
 ![Eduardo Lanzarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
-</div>
