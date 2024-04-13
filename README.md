@@ -79,11 +79,11 @@
 <br/>
 
 <p align="left">
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/edulanzarin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/edulanzarin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 <br/>
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Eduardo Lanzarin GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
+![Eduardo Lanzarin GitHub stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
