@@ -13,7 +13,7 @@
  -->
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Olá!, eu sou
+        <samp>&gt; Bem vindo!, me chamo
                 <b><a target="_blank" href="https://alsiam.com">Eduardo</a></b>
         </samp>
 </h3>
