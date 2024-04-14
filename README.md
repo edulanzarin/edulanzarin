@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <samp>
-    「 Sou um estudante de Sistemas de Informação pela <b>FURB</b> 」
+    「 Estudante de Sistemas de Informação pela <b>FURB</b> 」
     <br>
     <br>
   </samp>
