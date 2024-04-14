@@ -50,8 +50,8 @@
 <p>
  <img align="center" width="500" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Coding" />
   
- ✌️  Gosto de programar e adquirir conhecimento <br/><br/>
- ❤️ Amo escrever códigos e aprender coisas novas <br/><br/>
+ ✌️  Estudante de programação <br/><br/>
+ ❤️ Gosto de programar e aprender coisas novas <br/><br/>
  📧 Entre em contato comigo: edulanzarin@outlook.com<br/><br/>
 
 </p>
