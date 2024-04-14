@@ -52,7 +52,7 @@
   
  ✌️  Estudante de programação<br/><br/>
  ❤️ Gosto de programar e de jogos<br/><br/>
- 📧 Entre em contato comigo: edulanzarin@outlook.com<br/><br/>
+ 📧 Entre em contato: edulanzarin@outlook.com<br/><br/>
 
 </p>
 
