@@ -60,6 +60,7 @@
 <h1>Tecnologias que utilizo</h1>
 </div>
 <div align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
     <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -70,11 +71,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <h4>Meus repositórios</h4>
-  <a href="https://github.com/edulanzarin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
 
 <br/>
 <br/>
