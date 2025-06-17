@@ -39,15 +39,6 @@
 
 <div align="center">
 
-<p>
- <img align="center" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY242b2I0MHdxbjd3aGwwZDYzdnlvYmZjNXgxYTB4ZHIzaGMzNXhqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding" />
-  
-📧 Entre em contato: eduardolanzarin@gmail.com<br/>
-
-</p>
-
-<br/>
-
 <h1>Tecnologias que utilizo</h1>
 </div>
 <div align="center">
