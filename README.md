@@ -1,4 +1,4 @@
-# Olá, eu sou o Edu Lanzarin! 👋
+# Olá, eu sou o Eduardo Lanzarin! 👋
 
 Bem-vindo(a) ao meu GitHub!  
 Aqui você encontrará projetos, estudos e experimentos nas áreas de desenvolvimento de software, automação e tecnologia.
@@ -13,7 +13,6 @@ Aqui você encontrará projetos, estudos e experimentos nas áreas de desenvolvi
 
 - Projetos pessoais e acadêmicos
 - Repositórios de estudo, exemplos e anotações
-- Colaborações open source
 
 ## Contato
 
