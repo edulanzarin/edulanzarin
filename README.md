@@ -19,13 +19,7 @@ Aqui você vai encontrar projetos, estudos e experimentos nas áreas de **desenv
 
 ## 📈 Minhas estatísticas no GitHub
 
-![Eduardo Lanzarin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardolanzarin&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolanzarin&layout=compact&theme=radical)
-
-## 📊 Visitas no perfil
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=eduardolanzarin&color=blue&style=flat)
+![Eduardo Lanzarin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edulanzarin&show_icons=true&theme=radical)
 
 ## 📫 Contato:
 
