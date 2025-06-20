@@ -25,5 +25,3 @@ Aqui você vai encontrar projetos, estudos e experimentos nas áreas de **desenv
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/eduardolanzarin/)
 - 📧 Email: eduardolanzarin@email.com
-
-⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar e conectar comigo.
